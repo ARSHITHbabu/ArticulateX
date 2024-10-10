@@ -1,4 +1,4 @@
-# SpeakSphere.AI
+# ArticulateX
 
 **Project Overview**  
 This project aims to provide a real-time language learning assistant that analyzes audio input to give feedback on pronunciation, fluency, coherence, and accuracy. Leveraging advanced machine learning and deep learning techniques, this assistant classifies audio recordings and generates personalized recommendations to help users improve their language skills.
