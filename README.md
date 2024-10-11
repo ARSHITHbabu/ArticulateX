@@ -10,7 +10,6 @@ The integration of machine learning, deep learning, reinforcement learning, and 
 
 - **Machine Learning (ML)**: 
   - **Classification Algorithms**: These algorithms are essential for categorizing audio features into various classes, allowing the system to evaluate user performance on specific language skills accurately. The use of supervised learning techniques ensures that the model is trained on labeled data, enhancing its ability to generalize to new, unseen audio inputs.
-  - **Feature Extraction**: Techniques like Mel-frequency cepstral coefficients (MFCCs) are employed to extract relevant features from audio signals. MFCCs capture the timbral aspects of sound, providing a robust representation of speech characteristics, which is vital for effective classification.
 
 - **Deep Learning (DL)**: 
   - **Convolutional Neural Networks (CNNs)**: CNNs are particularly suited for audio classification tasks. By transforming audio files into Mel-spectrograms, the CNN can leverage its hierarchical structure to learn complex patterns and features, significantly improving classification accuracy. This structure allows the model to capture both local and global features in audio data, making it more effective at recognizing spoken language nuances.
