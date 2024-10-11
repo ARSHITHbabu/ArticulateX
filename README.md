@@ -23,7 +23,7 @@ This project aims to provide a real-time language learning assistant that analyz
 
 - **Reinforcement Learning (RL)**: 
   - **Adaptive Learning**: A recommendation system based on reinforcement learning helps personalize the user experience by adapting suggestions based on the user’s performance scores (fluency, coherence, accuracy, and pronunciation). The system continually learns from user interactions, enhancing the overall effectiveness of the recommendations.
-  - **Dynamic Feedback Loop**: By providing feedback based on user interactions, the system can refine its recommendations over time, promoting a tailored learning journey.
+ 
 
 - **Data Science (DS)**: 
   - **Data Preparation and Manipulation**: Extensive data preprocessing, including audio normalization, padding, and augmentation, ensures that the dataset is clean and ready for model training. This step is crucial in handling variability in audio input.
