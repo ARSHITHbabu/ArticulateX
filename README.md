@@ -5,7 +5,7 @@ This project aims to provide a real-time language learning assistant that analyz
 
 ---
 
-**Why Techniques Are Used**  
+**Techniques Used**  
 The integration of machine learning, deep learning, reinforcement learning, and natural language processing (NLP) techniques is crucial for developing an effective language learning assistant, ensuring accurate feedback and personalized learning experiences.
 
 - **Machine Learning (ML)**: 
